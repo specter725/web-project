@@ -1,4 +1,9 @@
 
+//this has 4 templates for hotels when the user login,
+//also login/signout working
+//functional with add, delete, edit
+
+
 import { useState } from 'react';
 import './App.css';
 
